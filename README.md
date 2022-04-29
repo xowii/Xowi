@@ -15,6 +15,6 @@ pip3 install python-nmap
 git clone https://github.com/UhhGorzz/Xowi.git
 git clone https://github.com/scipag/vulscan
 
-cd ./Xowi
+cd Xowi
 ./Xowi.py or python3 Xowi.py
 ```
